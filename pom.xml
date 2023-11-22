@@ -12,6 +12,7 @@
         <module>swagger-demo</module>
         <module>knife4j-demo</module>
         <module>test-knife4j-demo</module>
+        <module>dozer-demo</module>
     </modules>
 
     <properties>
