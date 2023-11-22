@@ -1,0 +1,8 @@
+server:
+  port: 7788
+swagger:
+  enabled: true #是否启用swagger
+  title: 测试标题
+  description: 在线文档
+  version: 0.1
+  basePackage: com.mo.controller #不分组
