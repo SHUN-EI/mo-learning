@@ -13,6 +13,7 @@
         <module>knife4j-demo</module>
         <module>test-knife4j-demo</module>
         <module>dozer-demo</module>
+        <module>test-dozer-demo</module>
     </modules>
 
     <properties>
