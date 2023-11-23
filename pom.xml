@@ -14,6 +14,7 @@
         <module>test-knife4j-demo</module>
         <module>dozer-demo</module>
         <module>test-dozer-demo</module>
+        <module>hibernate-validator-demo</module>
     </modules>
 
     <properties>
