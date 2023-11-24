@@ -16,6 +16,7 @@
         <module>test-dozer-demo</module>
         <module>hibernate-validator-demo</module>
         <module>AntiSamy-demo</module>
+        <module>logback-demo</module>
     </modules>
 
     <properties>
