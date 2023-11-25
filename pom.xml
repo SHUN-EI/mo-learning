@@ -18,6 +18,7 @@
         <module>AntiSamy-demo</module>
         <module>logback-demo</module>
         <module>SpringEven-demo</module>
+        <module>test-log-demo</module>
     </modules>
 
     <properties>
