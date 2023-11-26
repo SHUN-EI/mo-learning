@@ -20,6 +20,7 @@
         <module>SpringEven-demo</module>
         <module>test-log-demo</module>
         <module>jwt-demo</module>
+        <module>test-jwt-demo</module>
     </modules>
 
     <properties>
