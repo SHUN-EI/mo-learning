@@ -19,6 +19,7 @@
         <module>logback-demo</module>
         <module>SpringEven-demo</module>
         <module>test-log-demo</module>
+        <module>jwt-demo</module>
     </modules>
 
     <properties>
