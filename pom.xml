@@ -22,6 +22,7 @@
         <module>jwt-demo</module>
         <module>test-jwt-demo</module>
         <module>j2cache-demo</module>
+        <module>juc-demo</module>
     </modules>
 
     <properties>
